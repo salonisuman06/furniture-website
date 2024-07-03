@@ -60,6 +60,9 @@ header ul li a:hover{
 
 header .bars{
     display: none;
+    background: #59003b;
+    color: #59003b;
+    padding: 4px 5px;
 }
 header .bars img{
     width: 30px;
